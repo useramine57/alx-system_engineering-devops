@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Academia" | sed 'y/Ac/Ze/'
+echo "Input string with A and c" | tr 'Ac' 'Ze'
