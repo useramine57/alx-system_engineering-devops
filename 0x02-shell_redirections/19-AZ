@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Input string with A and c" | tr 'Ac' 'Ze'
+tr Ac Ze
